@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "293955910998",
+    "firebase_url": "https://bahia-app-2019.firebaseio.com",
+    "project_id": "bahia-app-2019",
+    "storage_bucket": "bahia-app-2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293955910998:android:7b222935675edd1945eaf7",
+        "android_client_info": {
+          "package_name": "com.example.bahia_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293955910998-0l564dlqgd4uu71r32faeclb92udgsca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bahia_app",
+            "certificate_hash": "88822e91326e38dc6f7264d31e0fee1631cdacee"
+          }
+        },
+        {
+          "client_id": "293955910998-urf4vmppkoukq5l49937qimstcssacj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaF5F-KMXIs51QduxPLU1l00Tf8_KTsQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293955910998-urf4vmppkoukq5l49937qimstcssacj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
